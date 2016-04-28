@@ -1,0 +1,5 @@
+*.tar.xz
+.SRCINFO
+goldendict
+pkg
+src
